@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdalidate",
+        "uuid": 4223016,
+        "checksum": "ddy6fp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
